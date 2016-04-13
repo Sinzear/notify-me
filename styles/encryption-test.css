@@ -1,0 +1,49 @@
+/*!
+ * Copyright 2016 Google Inc. All rights reserved.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express
+ * or implied. See the License for the specific language governing
+ * permissions and limitations under the License.
+ */
+/*
+ * Web Starter Kit
+ *
+ * Multi-screen layout styles for your page. Brought to you by the
+ * Web Starter Kit team.
+ *
+ */
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0; }
+
+body {
+  font-family: 'Roboto', Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  box-sizing: border-box;
+  min-height: 100%; }
+
+main {
+  width: 100%;
+  max-width: 600px;
+  padding: 32px;
+  margin: 0 auto;
+  box-sizing: border-box; }
+
+.mdl-textfield {
+  width: 100%; }
+
+.center {
+  text-align: center; }
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImVuY3J5cHRpb24tdGVzdC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7Ozs7OztHQU1HO0FBQ0g7O0VBRUUsWUFBWTtFQUNaLGFBQWE7RUFDYixVQUFVO0VBQ1YsV0FBVyxFQUFFOztBQUVmO0VBQ0Usb0RBQW9EO0VBQ3BELGlCQUFpQjtFQUNqQix1QkFBdUI7RUFDdkIsaUJBQWlCLEVBQUU7O0FBRXJCO0VBQ0UsWUFBWTtFQUNaLGlCQUFpQjtFQUNqQixjQUFjO0VBQ2QsZUFBZTtFQUNmLHVCQUF1QixFQUFFOztBQUUzQjtFQUNFLFlBQVksRUFBRTs7QUFFaEI7RUFDRSxtQkFBbUIsRUFBRSIsImZpbGUiOiJzdHlsZXMvZW5jcnlwdGlvbi10ZXN0LmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi8qXHJcbiAqIFdlYiBTdGFydGVyIEtpdFxyXG4gKlxyXG4gKiBNdWx0aS1zY3JlZW4gbGF5b3V0IHN0eWxlcyBmb3IgeW91ciBwYWdlLiBCcm91Z2h0IHRvIHlvdSBieSB0aGVcclxuICogV2ViIFN0YXJ0ZXIgS2l0IHRlYW0uXHJcbiAqXHJcbiAqL1xuaHRtbCxcbmJvZHkge1xuICB3aWR0aDogMTAwJTtcbiAgaGVpZ2h0OiAxMDAlO1xuICBtYXJnaW46IDA7XG4gIHBhZGRpbmc6IDA7IH1cblxuYm9keSB7XG4gIGZvbnQtZmFtaWx5OiAnUm9ib3RvJywgSGVsdmV0aWNhLCBBcmlhbCwgc2Fucy1zZXJpZjtcbiAgZm9udC13ZWlnaHQ6IDMwMDtcbiAgYm94LXNpemluZzogYm9yZGVyLWJveDtcbiAgbWluLWhlaWdodDogMTAwJTsgfVxuXG5tYWluIHtcbiAgd2lkdGg6IDEwMCU7XG4gIG1heC13aWR0aDogNjAwcHg7XG4gIHBhZGRpbmc6IDMycHg7XG4gIG1hcmdpbjogMCBhdXRvO1xuICBib3gtc2l6aW5nOiBib3JkZXItYm94OyB9XG5cbi5tZGwtdGV4dGZpZWxkIHtcbiAgd2lkdGg6IDEwMCU7IH1cblxuLmNlbnRlciB7XG4gIHRleHQtYWxpZ246IGNlbnRlcjsgfVxuIl0sInNvdXJjZVJvb3QiOiIvc291cmNlLyJ9 */
